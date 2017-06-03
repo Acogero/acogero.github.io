@@ -5,7 +5,6 @@ date:   2017-06-03 01:00
 categories: main
 ---
 
-{% highlight html%}
 	<h1>Currículo resumido</h1>
 	<h3>Objetivos</h3>
 	<p>Tenho como objetivo trabalhar na área de desenvolvimento de sistemas web e aplicativos mobile.</p><br><br>
@@ -24,7 +23,6 @@ categories: main
 	<p>Estagiário: Controle de inconsistências entre sistemas de telecom.</p><br>
 	<p>TJ-ES - 01/09/2015 até 30/12/2016</p>
 	<p>Estagiário: Suporte técnico ao usuário do sistema E-JUD.</p>
-{% endhighlight %}
 
 {% highlight ruby %}
 def print_hi(name)
