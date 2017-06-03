@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Marcos Vinicius A. Moreira
+tagline:      Alguns projetos
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Marcos Vinicius
+  url:        https://acogero.github.io/
 
 # Gems
 gems:
