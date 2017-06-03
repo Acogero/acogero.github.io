@@ -1,4 +1,5 @@
 _site
+.bundle
 .sass-cache
-node_modules
-_drafts
+Gemfile.lock
+.DS_Store
